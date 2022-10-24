@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    background-color: aquamarine;
+}
+h1{
+    text-align: center;
+    color: rgb(74, 2, 142);
+}
+h5{
+    text-align: end;
+    color: rgb(226, 43, 156);
+}
+main{
+    background-color: rgb(106, 240, 151);
+}
+h4{
+    text-align: center;
+    color:  rgb(74, 2, 142);
+
+}
+span{
+    color: rgb(255, 115, 0);
+    font-size: x-large;
+    font-style: oblique;
+
+}
+p{
+  text-decoration: solid underline; 
+  text-decoration-color: blue;
+  color: rgb(245, 0, 61);
+
+}
+footer{
+    background-image: url(https://i.pinimg.com/474x/f7/3a/92/f73a92a24262f3d03086ce5dd7ce3892.jpg);
+    text-align: center;
+}
+img{
+    height: 50%;
+    width: 50%;
+    border-radius: 100%;
+}
