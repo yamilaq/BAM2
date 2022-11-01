@@ -1,0 +1,73 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    background-color: aquamarine;
+}
+h1{
+    text-align: center;
+    color: rgb(74, 2, 142);
+}
+h5{
+    text-align: end;
+    color: rgb(226, 43, 156);
+}
+main{
+    background-color: rgb(116, 255, 162);
+}
+h4{
+    text-align: center;
+    color:  rgb(74, 2, 142);
+
+}
+span{
+    color: rgb(255, 115, 0);
+    font-size: x-large;
+    font-style: oblique;
+
+}
+p{
+  text-decoration: solid underline; 
+  text-decoration-color: blue;
+  color: rgb(109, 6, 32);
+  font-size:1.3rem;
+
+}
+footer{
+    background-image: url(https://i.pinimg.com/474x/f7/3a/92/f73a92a24262f3d03086ce5dd7ce3892.jpg);
+    text-align: center;
+}
+img{
+    height: 50%;
+    width: 50%;
+    border-radius: 100%;
+    margin-left: 25%;
+}
+nav{
+    background-color: black;
+    background-attachment: scroll;
+}
+nav ul{
+    display: flex;
+    flex-direction: row;
+    background-color: white;
+    font-style: italic;
+    justify-content: space-around;
+    list-style: none;
+}
+nav ul li{
+    font-style: italic;
+    font-weight: 600;
+    padding-right: 2em;
+    font-size: 1.5em;
+    color: rgb(217, 51, 6);
+}
+.iconoface{
+    color: rgb(90, 24, 24);
+    background-color: #ffffff;
+    font-size: 1.5rem;
+    border: solid rgb(212, 85, 106);
+    border-radius: 50%;
+}
